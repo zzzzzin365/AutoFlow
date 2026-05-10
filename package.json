@@ -1,0 +1,7 @@
+{
+  "name": "flowai-studio",
+  "private": true,
+  "scripts": {
+    "build": "npm --prefix flowai-studio-frontend run build"
+  }
+}
